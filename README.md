@@ -1,5 +1,8 @@
 # ResNet-18 石头剪刀布手势识别
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![License](https://img.shields.io/badge/License-MIT-green)
+
+
 石头剪刀布是个简单的游戏，但让机器通过一张图片判断出手的手势并不容易——手的姿态、角度、光照、背景都会影响识别结果。本项目用 ResNet-18 做迁移学习，在石头/剪刀/布的手势图片数据集上微调模型，实现对三种手势的自动分类识别。
 
 ## 痛点与目的
