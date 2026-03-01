@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+env/
+
+# PyTorch
+*.pth
+
+# Data
+original_data/
+dataset/
+
+# Archives
+*.zip
+
+# Docs
+*.docx
+
+# macOS
+.DS_Store
+._*
+
+# IDE
+.idea/
+.vscode/
