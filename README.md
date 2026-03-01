@@ -96,6 +96,6 @@ python 4.py
 - Matplotlib（训练可视化）
 - Python 3.x
 
-## License
+## 许可证
 
-MIT License
+MIT 许可证
