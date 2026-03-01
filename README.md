@@ -75,6 +75,12 @@ python 4.py
     └── test/
 ```
 
+## 数据集样本
+
+| 石头 ✊ | 剪刀 ✌️ | 布 🖐️ |
+|:---:|:---:|:---:|
+| ![石头](images/sample_rock.png) | ![剪刀](images/sample_scissors.png) | ![布](images/sample_paper.png) |
+
 ## 适用场景
 
 - 手势识别与人机交互
